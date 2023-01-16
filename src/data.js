@@ -1,10 +1,10 @@
 export const featuredPortfolio = [
   {
     id: 3,
-    title: "E-commerce Application",
-    img: "https://fireartstudio.s3-accelerate.amazonaws.com/wp-content/uploads/2018/09/image11-850x638-1.jpg",
-    code: "https://github.com/cwmservices/MK-PRODUCTS",
-    demo: "http://mkproducts.herokuapp.com",
+    title: "Chat Web Application",
+    img: "https://i.pinimg.com/originals/f7/a6/6c/f7a66cf14e1e77b933ec079f02b2a52d.png",
+    code: "https://github.com/cwmservices/mchat-frontend",
+    demo: "https://mchatt.netlify.app",
   },
   {
     id: 4,
@@ -44,12 +44,12 @@ export const featuredPortfolio = [
 ];
 
 export const webPortfolio = [
-  {
+   {
     id: 3,
-    title: "E-commerce Application",
-    img: "https://fireartstudio.s3-accelerate.amazonaws.com/wp-content/uploads/2018/09/image11-850x638-1.jpg",
-    code: "https://github.com/cwmservices/MK-PRODUCTS",
-    demo: "http://mkproducts.herokuapp.com",
+    title: "Chat Web Application",
+    img: "https://i.pinimg.com/originals/f7/a6/6c/f7a66cf14e1e77b933ec079f02b2a52d.png",
+    code: "https://github.com/cwmservices/mchat-frontend",
+    demo: "https://mchatt.netlify.app",
   },
   {
     id: 4,
